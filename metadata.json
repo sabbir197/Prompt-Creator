@@ -1,0 +1,6 @@
+{
+  "name": "StockPrompt Studio",
+  "description": "Professional AI image prompt generator engineered for Adobe Stock contributors, featuring structured prompt breakdowns, commercial aesthetics, and metadata recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
